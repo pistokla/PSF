@@ -14,3 +14,7 @@ The table below provides an overview of the files and their usage.
 
 
 Source
+Sines, Per Ivar S. (2024)
+"Framework for semi-probabilistic assessment of existing concrete structures, with and without the effect of chloride-induced corrosion."
+Master's thesis 
+NTNU Department of Structural Engineering
