@@ -13,8 +13,8 @@ The developed Python programs are tools to perform the assessment with the propo
 The table below provides an overview of the files and their usage.
 
 
-Source \newline
-Sines, Per Ivar S. (2024)
-"Framework for semi-probabilistic assessment of existing concrete structures, with and without the effect of chloride-induced corrosion."
-Master's thesis 
-NTNU Department of Structural Engineering
+Source: <br />
+Sines, Per Ivar S. (2024) <br />
+"Framework for semi-probabilistic assessment of existing concrete structures, with and without the effect of chloride-induced corrosion." <br />
+Master's thesis <br />
+NTNU Department of Structural Engineering <br />
