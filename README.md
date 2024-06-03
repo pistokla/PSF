@@ -12,6 +12,8 @@ The developed Python programs are tools to perform the assessment with the propo
 
 The table below provides an overview of the files and their usage.
 
+![Skjermbilde 2024-06-03 kl  14 16 11](https://github.com/pistokla/PSF_ALPHA_CHLORIDE/assets/170924681/737ac6ff-32ee-4725-9a97-db534c18de3a)
+
 
 Source: <br />
 Sines, Per Ivar S. (2024) <br />
